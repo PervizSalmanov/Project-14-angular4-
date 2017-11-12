@@ -1,0 +1,60 @@
+.teast p {font-size: 3.500em; color: #fff; font-family: PlayfairDisplay-Bold; font-weight: bold;}
+.teast a {font-size: 2.500em; color: #fff; font-family: PlayfairDisplay-Bold; font-weight: bold;}
+span{color: #fea100; }
+.fis{background: #dde3e7; height: 100px; z-index: 50; position: relative; }
+.teast {margin-top: 180px}
+.read{top: 30px; position: relative;}
+.read img {margin-right: 0.875em}
+.read p {font-size: 0.875em; color: #000; font-weight: bold; font-family: Syntony-Bold; text-transform: uppercase; }
+.read a {font-size: 1em; color: #fea100; font-weight: bold; font-family: Syntony-Bold; text-transform: uppercase; text-decoration: none;}
+.read2 {margin-left: 15.625em;margin-top: -14px;}
+.read2 p {font-size: 0.875em; color: #000; font-weight: bold; font-family: Syntony-Bold; text-transform: uppercase;}
+.read2 a {font-size: 1em; color: #fea100; font-weight: bold; font-family: Syntony-Bold; text-transform: uppercase; text-decoration: none;}
+.reader{margin-left: 29.063em}
+.about{margin-top: 120px}
+.about p{color: #14141d; font-family: PlayfairDisplay-Bold; font-size: 2.188em; font-weight: bold; margin-bottom: 0.500em}
+.about a{color: #5c6369; font-family: Sintony-Regular; font-size: 10.5pt; text-decoration: none;}
+.rest_img li{list-style: none; display: inline-block; margin-right: 2.063em}
+.rest_img li img {cursor: pointer;}
+.rest_img {margin-top: 50px}
+.lin{background: url(../../assets/images/img.png) no-repeat; height: 731px}
+.lin2{background: url(../../assets/images/img.png) no-repeat; height: 731px}
+.todays{margin-top: 80px; height: 500px}
+.todays p{text-decoration: none;color: #14141d; font-size: 1.625em; font-weight: PlayfairDisplay-Bold; font-weight: bold; text-align: center; color: #000; }
+.todays a{text-align: center; display: block; color: #5c6369; font-size: 0.875em; font-family: Sintony-Regular; text-decoration: none;  }
+#section2 {height: 857px !important;}
+#section3 {height: 570px !important;}
+.azda{text-align: center;}
+.azda[_ngcontent-c2]{ position: relative;}
+p.happy{color: #fff; font-family: PlayfairDisplay-Bold; font-size: 2.188em; font-weight: bold; margin-bottom: 20px}
+a.many{text-decoration: none; color: #fff; font-family: Sintony-Regular; font-size: 11.25pt; }
+img.imz{position: relative; top: 20px; margin-bottom: 30px;}
+.as{background: url(../../assets/images/red.png) no-repeat; height: 462px}
+.azda{top: 50px; position: relative;}
+p.naz{color: #fff; font-family: PlayfairDisplay-Bold; font-size: 18pt}
+.menu4 ul li{position: relative;  line-height: 25px; font-size: 11.25pt;  list-style: none; }
+.menu4 ul li a {color: #93989e;}
+.menu4{margin-top: -30px}
+
+@media only screen and (max-width : 994px) { 
+   .read3{display: none;}
+}
+@media only screen and (max-width : 802px) { 
+   .read2{display: none;}
+}
+
+@media only screen and (max-width : 593px) { 
+  img.Vxodaimg{ display: none; }
+}
+
+@media only screen and (max-width : 530px) { 
+ .read[_ngcontent-c2]{margin-left: -14em}
+}
+@media only screen and (max-width : 340px) { 
+ .read[_ngcontent-c2]{margin-left: -21em}
+}
+@media only screen and (max-width : 448px) { 
+ .rest_img li{display: none;}
+}
+
+

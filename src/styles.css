@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+.inner {width: 1170px; max-width: 100%; margin: 0 auto; }
+.navbar-right{float: left !important;}
+header {
+    position: relative;
+    z-index: 55;
+    background: #fff;
+    left: 0;
+    right: 0;
+}
+.teast[_ngcontent-c2]   a[_ngcontent-c2]{text-decoration: none;}
+
